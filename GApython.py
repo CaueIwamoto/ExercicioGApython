@@ -1,4 +1,4 @@
-//Exercício 1
+#Exercício 1
 matriz = []
 
 print("DETERMINANTE:\n")
@@ -26,7 +26,7 @@ else:
     print("Determinante: %.1f" %determinante)
     
 
-//Exercício 2
+#Exercício 2
 matriz = []
 
 linhas = int(input("Digite o número de linhas  da matriz M: "))
