@@ -1,4 +1,5 @@
 #Exercícios no moodle. Três são cálculos (não no algoritmo) e um é em python.
+#Feito no dia 8/04/2022
 
 #Exercício 1
 from math import sqrt
