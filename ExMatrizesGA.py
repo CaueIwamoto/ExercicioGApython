@@ -1,3 +1,5 @@
+#Dois exercícios no moodle de Geometria Analítica, feito no dia 23/03/2022
+
 #Exercício 1
 matriz = []
 
